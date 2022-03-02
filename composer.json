@@ -1,0 +1,20 @@
+{
+    "name": "pyjhyssc/laravel_api",
+    "description": "laravel基础包",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pyjhyssc",
+            "email": "pyjhyssc@qq.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^7.0|^8.0|^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pyjhyssc\\": "src"
+        }
+    },
+    "extra": {}
+}
